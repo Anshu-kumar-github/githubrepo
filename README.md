@@ -1,2 +1,2 @@
 # githubrepo
-This is new repository
+This is a new repository
